@@ -1,7 +1,7 @@
 <h1 align="center">Discord Token Grabber</h1>
 <p align="center">A Discord token grabber written in Python 3.</p>
 
-This version of the grabber only supports **Windows**.
+This version of the grabber is undetected and has a builder. Just run builder.py and it will tell you the rest
 
 # Features
  - No local caching
